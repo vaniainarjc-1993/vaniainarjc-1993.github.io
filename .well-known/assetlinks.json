@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.vaniainarjc_1993.tetibola",
+    "sha256_cert_fingerprints": ["51:D6:ED:74:A7:BF:CD:42:D3:A4:B1:28:8E:A1:6B:67:9C:7D:B6:FD:EF:67:B8:D5:1F:FE:C0:3A:D5:D0:4F:71"]
+  }
+}]
